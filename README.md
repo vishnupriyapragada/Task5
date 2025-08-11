@@ -3,6 +3,8 @@ Titanic Dataset - Exploratory Data Analysis (EDA)
 This project explores the Titanic dataset to uncover patterns and insights related to passenger survival.
 Using Python’s Pandas, Matplotlib, and Seaborn, we perform data visualization, and statistical analysis.
 
+Kaggle Dataset: https://www.kaggle.com/code/subinium/awesome-visualization-with-titanic-dataset/input?
+
 Steps Performed:
 
 * Data Overview – Checked shape, columns, data types, and missing values.
